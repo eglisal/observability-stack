@@ -132,5 +132,5 @@ Grafana includes a **unified alerting system**.
 
 ---
 
-✍️ *Maintained by [Eglis Alvarez / TechOpsGuide.com]*  
+✍️ *Maintained by Eglis Alvarez / TechOpsGuide.com*  
 💡 Contributions welcome!  
