@@ -24,7 +24,7 @@ This stack implements two of the **three pillars of observability**:
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Prerequisites
 - [Docker](https://docs.docker.com/get-docker/) installed  
@@ -97,7 +97,7 @@ Grafana includes a **unified alerting system**.
 
 ---
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
  **Grafana → Prometheus connection refused**  
 - If Grafana is in Docker, set the Prometheus datasource to:  
